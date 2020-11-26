@@ -5,6 +5,8 @@ DEPRECATED
 ----------
 Please upgrade to Serverless Framework 2.3.0, this is now supported natively.
 
+See https://github.com/serverless/serverless/pull/8279 for the detail.
+
 Below is the legacy readme for reference:
 
 Original Readme
